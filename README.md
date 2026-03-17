@@ -3,7 +3,7 @@
 ### Install Dependencies
 node version
 ```
-v16.14.2
+v21.7.3
 ```
 
 ```bash
